@@ -1,0 +1,4 @@
+
+bash run_tuning_optum_regularized_eo.sh
+bash run_tuning_optum_regularized_performance.sh
+bash run_tuning_optum_dro.sh

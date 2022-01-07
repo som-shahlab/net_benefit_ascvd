@@ -1,0 +1,39 @@
+\begin{table}[!t]
+\centering
+\caption{A caption}
+\label{tab:cohort_optum}
+\begin{tabular}{llrr}
+\toprule
+ Group &      Count &  Censoring rate &  Incidence \\
+\midrule
+\lbrack40-50)                 &  2,868,517 &           0.826 &      0.055 \\
+\lbrack50-60)                 &  1,914,055 &           0.844 &      0.114 \\
+\lbrack60-75)                 &  1,020,293 &           0.748 &      0.254 \\
+Female                  &  3,253,609 &           0.816 &      0.105 \\
+Male                    &  2,549,256 &           0.821 &       0.12 \\
+Asian                   &    165,198 &           0.814 &     0.0829 \\
+Black                   &    438,144 &           0.786 &      0.136 \\
+Hispanic                &    433,238 &             0.8 &      0.104 \\
+Other                   &    880,116 &           0.936 &      0.115 \\
+White                   &  3,886,169 &           0.797 &       0.11 \\
+Asian, female           &     88,100 &           0.806 &     0.0793 \\
+Asian, male             &     77,098 &           0.823 &     0.0874 \\
+Black, female           &    262,559 &           0.784 &      0.128 \\
+Black, male             &    175,585 &           0.788 &       0.15 \\
+Hispanic, female        &    235,736 &           0.792 &      0.102 \\
+Hispanic, male          &    197,502 &            0.81 &      0.107 \\
+Other, female           &    522,369 &           0.938 &      0.108 \\
+Other, male             &    357,747 &           0.932 &      0.125 \\
+White, female           &  2,144,845 &           0.794 &      0.102 \\
+White, male             &  1,741,324 &           0.802 &      0.119 \\
+Type 2 diabetes absent  &  5,388,193 &           0.817 &      0.104 \\
+Type 2 diabetes present &    414,672 &           0.835 &        0.2 \\
+Type 1 diabetes absent  &  5,741,282 &           0.818 &       0.11 \\
+Type 1 diabetes present &     61,583 &           0.825 &       0.24 \\
+RA absent               &  5,733,505 &           0.819 &       0.11 \\
+RA present              &     69,360 &           0.782 &      0.185 \\
+CKD absent              &  5,758,773 &           0.819 &       0.11 \\
+CKD present             &     44,092 &           0.767 &      0.253 \\
+\bottomrule
+\end{tabular}
+\end{table}
