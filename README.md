@@ -1,5 +1,5 @@
 **Code to accompany,
-    "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness]{Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare" by Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Nigam H. Shah**
+    "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare" by Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Nigam H. Shah**
 
 ## Installation
 1. Pull this repository, and from within the project directory call `pip install .` or `pip install -e .` if you intend to modify the code
@@ -14,3 +14,4 @@
     * Contains library code defining models and procedures for training and evaluation
 * `notebooks`
     * Contains notebooks for data visualization and analysis
+* Code to generate supplementary simulation results can be found at: https://github.com/spfohl/fairness_simulation
