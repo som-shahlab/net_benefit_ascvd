@@ -1,5 +1,5 @@
 **Code to accompany,
-    "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare" by Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Nigam H. Shah**
+    "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare" by Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah**
 
 ## Installation
 1. Pull this repository, and from within the project directory call `pip install .` or `pip install -e .` if you intend to modify the code
