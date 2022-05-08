@@ -1,5 +1,7 @@
 **Code to accompany,
-    "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare" by Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah**
+    Stephen R. Pfohl, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Julian Genkins, and Nigam H. Shah. 2022. Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22), June 21–24, 2022, Seoul, Republic of Korea. ACM, New York, NY, USA, 20 pages. https://doi.org/10.1145/3531146.3533166**
+
+Available on Arxiv at: https://arxiv.org/abs/2202.01906
 
 ## Installation
 1. Pull this repository, and from within the project directory call `pip install .` or `pip install -e .` if you intend to modify the code
